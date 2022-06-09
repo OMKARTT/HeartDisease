@@ -6,4 +6,4 @@
 [Precision vs Recall](https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/)
 
 
-[alt text](https://github.com/OMKARTT/HeartDisease/blob/main/Data_distribution.png?raw=true)
+![alt text](https://github.com/OMKARTT/HeartDisease/blob/main/DataDistribution.png?raw=true)
