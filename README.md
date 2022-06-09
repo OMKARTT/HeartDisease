@@ -7,3 +7,4 @@
 
 
 ![alt text](https://github.com/OMKARTT/HeartDisease/blob/main/DataDistribution.png?raw=true)
+![data correlation](https://github.com/OMKARTT/HeartDisease/blob/main/DataCorrelation.png?raw=true)
